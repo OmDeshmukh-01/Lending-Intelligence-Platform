@@ -1,0 +1,15 @@
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/obj/Debug/net8.0/LendingPlatform.Application.csproj.AssemblyReference.cache
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/obj/Debug/net8.0/LendingPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/obj/Debug/net8.0/LendingPlatform.Application.AssemblyInfoInputs.cache
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/obj/Debug/net8.0/LendingPlatform.Application.AssemblyInfo.cs
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/obj/Debug/net8.0/LendingPlatform.Application.csproj.CoreCompileInputs.cache
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/bin/Debug/net8.0/LendingPlatform.Application.deps.json
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/bin/Debug/net8.0/LendingPlatform.Application.dll
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/bin/Debug/net8.0/LendingPlatform.Application.pdb
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/bin/Debug/net8.0/LendingPlatform.Domain.dll
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/bin/Debug/net8.0/LendingPlatform.Domain.pdb
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/obj/Debug/net8.0/LendingP.B661D784.Up2Date
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/obj/Debug/net8.0/LendingPlatform.Application.dll
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/obj/Debug/net8.0/refint/LendingPlatform.Application.dll
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/obj/Debug/net8.0/LendingPlatform.Application.pdb
+/Users/omdeshmukh/Desktop/Lending_platform/backend/LendingPlatform.Application/obj/Debug/net8.0/ref/LendingPlatform.Application.dll

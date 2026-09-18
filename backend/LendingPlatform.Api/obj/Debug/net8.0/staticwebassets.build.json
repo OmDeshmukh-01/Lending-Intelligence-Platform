@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FFIo5HRjW07tRpn84O01betY+gw86SOzwW39Z9ZPQjU=",
+  "Source": "LendingPlatform.Api",
+  "BasePath": "_content/LendingPlatform.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
