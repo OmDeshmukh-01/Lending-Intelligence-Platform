@@ -160,6 +160,9 @@ The current implementation contains a comprehensive suite of xUnit tests coverin
 - **Mean LTV**: The dashboard's mean LTV calculation applies to *all* submitted applicants (approved and declined).
 - **Total Value of Loans Written**: The total value of loans written applies *only* to approved applications.
 - **Backend as Source of Truth**: All final validation, LTV calculation, and lending decisions are performed strictly by the backend.
+- **Applicants vs Applications**: Since there is no user-account system, there is no separate concept of a registered applicant. Each submitted loan application is counted as one applicant for the purpose of the dashboard statistics.
+- **Mutually Exclusive LTV Bands**: The LTV rules are interpreted as mutually exclusive bands (`0% ≤ LTV < 60%`, `60% ≤ LTV < 80%`, `80% ≤ LTV < 90%`, `LTV ≥ 90%`) rather than evaluating each line completely independently.
+- **No Applicant Deduplication**: The specification does not include applicant identity fields (Name, Email, Applicant ID). Because we cannot determine if two applications belong to the same person, each application is treated completely independently, and we do not invent applicant deduplication.
 
 ## 14. Production Considerations
 This project is designed as a technical assessment and is not intended to represent a production-ready lending platform. For a production implementation, improvements would include:
