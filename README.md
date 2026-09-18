@@ -124,8 +124,8 @@ Install:
 ## 10. Local Setup
 Clone the repository:
 ```bash
-git clone https://github.com/mungaseashu/Lending-Decision-Platform---Thrive
-cd Lending-Decision-Platform---Thrive
+git clone https://github.com/OmDeshmukh-01/Lending-Intelligence-Platform.git
+cd Lending-Intelligence-Platform
 ```
 
 **Backend Setup**
@@ -139,7 +139,7 @@ The backend runs at `http://localhost:5004`.
 **Frontend Setup**
 Open a new terminal. Navigate to the frontend:
 ```bash
-cd frontend/lending-platform-ui
+cd frontend/
 npm install
 npm run dev
 ```
