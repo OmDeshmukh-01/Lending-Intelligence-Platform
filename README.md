@@ -179,3 +179,17 @@ AI assistance was used for:
 - Business-rule boundary testing
 - UI boilerplate (Tailwind)
 AI-generated suggestions were strictly reviewed, challenged on boundary constraints, and manually tested rather than blindly accepted. (See `AI_LOG.md` for full details).
+
+
+## 16. Screenshots
+### Dashboard
+
+![Dashboard](Screenshots/Dashboard.png)
+
+### New Application
+
+![New Application](Screenshots/NewApplication.png)
+
+### All Applications
+
+![All Applications](Screenshots/AllApplications.png)
