@@ -15,8 +15,6 @@ The platform is built with a C# .NET 8 backend and a React/TypeScript frontend.
 ## 2. Features
 - **Live Decision Engine**: Evaluates loan applications against the defined loan amount, LTV, and credit-score requirements.
 - **Detailed Decision Explanations**: Explains why an application was approved or declined, including the relevant rules and conditions.
-- **Decision Simulator**: Provides hypothetical mathematical scenarios that show how changes to values such as asset value or loan amount could affect LTV eligibility.
-- **Live LTV Preview**: Calculates and displays the estimated LTV dynamically while entering loan application details. *(Note: The backend remains the authoritative source for the final LTV and lending decision.)*
 - **Application Ledger**: Provides a historical view of submitted applications with filtering and sorting capabilities.
 - **Real-Time Dashboard Statistics**: Displays Total applicants, Successful applicants, Declined applicants, Total capital written, and Mean LTV.
 
