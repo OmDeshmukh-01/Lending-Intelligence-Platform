@@ -1,4 +1,5 @@
 # AI Interaction Log
+I have created the log based on the steps taken by me to build the entire project i have added the stage by stage prompts ai suggestions and the my review and updation in codebase 
 
 This log covers how I used AI tools (primarily Google Gemini / ChatGPT) to speed up the development of this lending platform test. I used it mostly for scaffolding, boilerplate generation, and checking edge cases, while keeping tight control over the actual domain logic and architecture.
 
