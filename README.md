@@ -1,4 +1,4 @@
-# Lending Decision Platform
+# Lending Intelligence Platform
 
 A full-stack lending decision platform that evaluates loan applications using configurable LTV and credit-score rules, provides explainable decisions, and presents application statistics through a React web interface.
 
