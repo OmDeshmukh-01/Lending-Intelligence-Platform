@@ -181,7 +181,7 @@ AI assistance was used for:
 - Architecture design scaffolding
 - Business-rule boundary testing
 - UI boilerplate (Tailwind)
-AI-generated suggestions were strictly reviewed, challenged on boundary constraints, and manually tested rather than blindly accepted. (See `AI_LOG.md` for full details).
+AI-generated suggestions were strictly reviewed, challenged on boundary constraints, and manually tested rather than blindly accepted.
 
 
 ## 16. Screenshots
